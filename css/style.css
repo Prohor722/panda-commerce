@@ -1,0 +1,29 @@
+.panda-bg-lightpink{
+    background-color: #feeae9;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.panda-btn-dark{
+    background-color: black;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.catagories img{
+    width: 100px;
+}
+.panda-corner{
+    border-radius: 15px;
+}
+.panda-subscriber{
+    height: 300px;
+}
+.card:hover{
+    box-shadow: 0px 0px 10px #FF589B !important;
+}
